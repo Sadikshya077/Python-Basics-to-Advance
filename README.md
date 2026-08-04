@@ -17,4 +17,61 @@
 
 ---
 
-## 📂 Repository Structure
+
+---
+
+## 📚 Topics Covered So Far
+
+- [x] Variables and Data Types
+- [x] Strings and String Methods
+- [ ] Control Flow (if-else, loops)
+- [ ] Functions
+- [ ] Data Structures
+- [ ] Error Handling
+- [ ] File Handling
+- [ ] Object-Oriented Programming (OOP)
+- [ ] Web Scraping
+- [ ] SQL with Python
+- [ ] Projects
+
+---
+
+## 🎯 Learning Path
+
+| Phase | Topics | Status |
+|-------|--------|--------|
+| Phase 1 | Basics (Variables, Strings, Control Flow, Functions) | 🟡 In Progress |
+| Phase 2 | Data Structures & File Handling | ⬜ Upcoming |
+| Phase 3 | OOP & Error Handling | ⬜ Upcoming |
+| Phase 4 | Web Scraping | ⬜ Upcoming |
+| Phase 5 | SQL with Python | ⬜ Upcoming |
+| Phase 6 | Projects | ⬜ Upcoming |
+
+---
+
+## 🚀 How to Use This Repository
+
+1. Clone the repository
+2. Open with Jupyter Notebook
+3. Run cells sequentially
+4. Experiment with the code!
+
+---
+
+## 💡 Why This Repository?
+
+I'm documenting my Python learning journey with daily commits to:
+- Build consistency and discipline
+- Showcase my progress to potential employers
+- Create a reference for future projects
+- Share knowledge with the community
+
+---
+
+## 📊 Progress
+
+**Day 1 of 30+** ✅
+
+---
+
+**📅 Last Updated:** August 4, 2026
