@@ -4,7 +4,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
-![Day 2](https://img.shields.io/badge/Day-2-brightgreen)
+![Day 3](https://img.shields.io/badge/Day-3-brightgreen)
 ![Learning](https://img.shields.io/badge/Learning-Everyday-red)
 
 ---
@@ -15,6 +15,7 @@
 |------|-----|-------|------|
 | Aug 4, 2026 | Day 1 | Variables, Data Types & Strings | `basics/variables_and_datatypes.ipynb`, `basics/strings.ipynb` |
 | Aug 5, 2026 | Day 2 | Control Flow (if-else, loops) | `control_flow/control_structure.ipynb`, `control_flow/loops.ipynb` |
+| Aug 6, 2026 | Day 3 | Functions | `functions/functions.ipynb` |
 
 ---
 
@@ -23,7 +24,7 @@
 - [x] Variables and Data Types
 - [x] Strings and String Methods
 - [x] Control Flow (if-else, loops)
-- [ ] Functions
+- [x] Functions
 - [ ] Data Structures
 - [ ] Error Handling
 - [ ] File Handling
@@ -68,8 +69,8 @@ I'm documenting my Python learning journey with daily commits to:
 
 ## 📊 Progress
 
-**Day 2 of 30+** ✅
+**Day 3 of 30+** ✅
 
 ---
 
-**📅 Last Updated:** August 5, 2026
+**📅 Last Updated:** August 6, 2026
