@@ -4,7 +4,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
-![Day 3](https://img.shields.io/badge/Day-3-brightgreen)
+![Day 4](https://img.shields.io/badge/Day-4-brightgreen)
 ![Learning](https://img.shields.io/badge/Learning-Everyday-red)
 
 ---
@@ -16,6 +16,7 @@
 | Aug 4, 2026 | Day 1 | Variables, Data Types & Strings | `basics/variables_and_datatypes.ipynb`, `basics/strings.ipynb` |
 | Aug 5, 2026 | Day 2 | Control Flow (if-else, loops) | `control_flow/control_structure.ipynb`, `control_flow/loops.ipynb` |
 | Aug 6, 2026 | Day 3 | Functions | `functions/functions.ipynb` |
+| Aug 7, 2026 | Day 4 | Data Structures & File Handling | `data_structures/data_structures.ipynb`, `file_handling/file_io.ipynb` |
 
 ---
 
@@ -25,9 +26,9 @@
 - [x] Strings and String Methods
 - [x] Control Flow (if-else, loops)
 - [x] Functions
-- [ ] Data Structures
+- [x] Data Structures
+- [x] File Handling
 - [ ] Error Handling
-- [ ] File Handling
 - [ ] Object-Oriented Programming (OOP)
 - [ ] Web Scraping
 - [ ] SQL with Python
@@ -40,8 +41,8 @@
 | Phase | Topics | Status |
 |-------|--------|--------|
 | Phase 1 | Basics (Variables, Strings, Control Flow, Functions) | 🟢 Completed |
-| Phase 2 | Data Structures & File Handling | 🟡 In Progress |
-| Phase 3 | OOP & Error Handling | ⬜ Upcoming |
+| Phase 2 | Data Structures & File Handling | 🟢 Completed |
+| Phase 3 | OOP & Error Handling | 🟡 In Progress |
 | Phase 4 | Web Scraping | ⬜ Upcoming |
 | Phase 5 | SQL with Python | ⬜ Upcoming |
 | Phase 6 | Projects | ⬜ Upcoming |
@@ -69,8 +70,8 @@ I'm documenting my Python learning journey with daily commits to:
 
 ## 📊 Progress
 
-**Day 3 of 30+** ✅
+**Day 4 of 30+** ✅
 
 ---
 
-**📅 Last Updated:** August 6, 2026
+**📅 Last Updated:** August 7, 2026
