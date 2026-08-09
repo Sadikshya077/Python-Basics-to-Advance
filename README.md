@@ -5,6 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
 ![SQL](https://img.shields.io/badge/SQL-SQLite-blue.svg)
+![Project](https://img.shields.io/badge/Project-Student_Manager-green.svg)
 ![Day 6](https://img.shields.io/badge/Day-6-brightgreen)
 ![Learning](https://img.shields.io/badge/Learning-Everyday-red)
 
@@ -19,7 +20,7 @@
 | Aug 6, 2026 | Day 3 | Functions | `functions/functions.ipynb` |
 | Aug 7, 2026 | Day 4 | Data Structures & File Handling | `data_structures/data_structures.ipynb`, `file_handling/file_io.ipynb` |
 | Aug 8, 2026 | Day 5 | Object-Oriented Programming (OOP) & Error Handling | `oop/classes_and_objects.ipynb`, `error_handling/try_except.ipynb` |
-| Aug 9, 2026 | Day 6 | SQL with Python (SQLite) | `sql/sqlite_basics.ipynb` |
+| Aug 9, 2026 | Day 6 | SQL with Python (SQLite) & Project | `sql/sqlite_basics.ipynb`, `project` |
 
 ---
 
@@ -34,8 +35,8 @@
 - [x] Object-Oriented Programming (OOP)
 - [x] Error Handling
 - [x] SQL with Python (SQLite)
+- [x] **Project: Bank App**
 - [ ] Web Scraping
-- [ ] Projects
 
 ---
 
@@ -47,8 +48,8 @@
 | Phase 2 | Data Structures & File Handling | 🟢 Completed |
 | Phase 3 | OOP & Error Handling | 🟢 Completed |
 | Phase 4 | SQL with Python | 🟢 Completed |
-| Phase 5 | Web Scraping | 🟡 In Progress |
-| Phase 6 | Projects | ⬜ Upcoming |
+| Phase 5 | Projects | 🟢 Completed |
+| Phase 6 | Web Scraping | 🟡 In Progress |
 
 ---
 
