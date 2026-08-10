@@ -269,12 +269,5 @@ Instead of only studying Python concepts theoretically, I reinforce them by impl
 
 ---
 
-## 📬 Connect With Me
-
-I'm continuously expanding my skills in **Python, SQL, Data Analysis, Automation, and Software Development**.
-
-Feel free to explore the repository, review the projects, and follow the progress.
-
----
 
 ⭐ **If you find this repository useful, consider giving it a star!**
