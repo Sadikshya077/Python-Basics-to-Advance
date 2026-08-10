@@ -121,19 +121,6 @@ A Python-based banking application developed to apply fundamental programming an
 * User Input Validation
 * Transaction Management
 
-### 🎓 Student Manager
-
-A Python project focused on managing student information and practicing structured programming and database concepts.
-
-**Concepts Applied:**
-
-* Python Data Structures
-* Functions
-* File/Database Handling
-* SQL
-* SQLite
-* CRUD Operations
-
 ---
 
 ## 📂 Repository Structure
@@ -168,7 +155,7 @@ python-learning/
 │   └── sqlite_basics.ipynb
 │
 ├── project/
-│   └── ...
+│   └── Bank App/
 │
 └── README.md
 ```
