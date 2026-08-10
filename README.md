@@ -183,23 +183,6 @@ Web Scraping & Automation
         ↓
 Data Analysis & Advanced Python
 ```
-
-### Current Progress
-
-| Area                        | Status |
-| --------------------------- | :----: |
-| Python Fundamentals         |    ✅   |
-| Control Flow & Functions    |    ✅   |
-| Data Structures             |    ✅   |
-| File Handling               |    ✅   |
-| Object-Oriented Programming |    ✅   |
-| Error Handling              |    ✅   |
-| SQL & SQLite                |    ✅   |
-| Practical Projects          |    ✅   |
-| Web Scraping                |   🚧   |
-| Data Analysis               |   🔜   |
-| Advanced Python             |   🔜   |
-
 ---
 
 ## 🎯 Objectives
@@ -247,9 +230,3 @@ jupyter notebook
 Open any notebook and run the cells sequentially.
 
 ---
-
-## 🤝 Learning Approach
-
-I follow a **Learn → Practice → Build → Document** approach.
-
-Instead of only studying Python concepts theoretically, I reinforce them by implementing examples, solving problems, working with databases, and building practical applications.
