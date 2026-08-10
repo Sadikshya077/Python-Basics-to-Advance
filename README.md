@@ -266,8 +266,3 @@ Open any notebook and run the cells sequentially.
 I follow a **Learn → Practice → Build → Document** approach.
 
 Instead of only studying Python concepts theoretically, I reinforce them by implementing examples, solving problems, working with databases, and building practical applications.
-
----
-
-
-⭐ **If you find this repository useful, consider giving it a star!**
